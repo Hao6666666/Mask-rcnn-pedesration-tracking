@@ -1,1 +1,1 @@
-# Mask-rcnn-pedesration-tracking
+# Mask-rcnn-pedestrian-tracking
